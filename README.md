@@ -12,7 +12,7 @@ GuzoWatch("this App", "the App") operates the mobile application(the "Service").
 
   ## Information Collection And Use
   
-  When you download this App, the App receives your "country" through Apple.Inc. However, this App DOES NOT collect no more your Personal Data. 
+  When you download this App, the App receives your "country" through Apple.Inc. However, this app does NOT collect no more your Personal Data. 
   © GuzoStudio.
   
   ## Changes To This Privacy Policy
