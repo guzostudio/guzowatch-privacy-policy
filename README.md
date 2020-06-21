@@ -12,11 +12,12 @@ GuzoWatch("this App", "the App") operates the mobile application(the "Service").
 
   ## Information Collection And Use
   
-  When you download this App, the App receives your "country" through Apple.Inc. However, this App DOES NOT collect no more your Personal Data. \n© GuzoStudio.
+  When you download this App, the App receives your "country" through Apple.Inc. However, this App DOES NOT collect no more your Personal Data. 
+  © GuzoStudio.
   
   ## Changes To This Privacy Policy
   
-  We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.\nYou are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+  We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
   
   ## Contact Us
   
